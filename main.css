@@ -132,7 +132,15 @@ a{
 	width: 420px;
 	float: left;
 
+	padding: 3%;
+
 	margin-left: 3%;
+
+
+	border: 2px;
+	border-style: solid;
+	border-color: black;
+	border-radius: 15%;
 }
 
 .desc, .specials{
