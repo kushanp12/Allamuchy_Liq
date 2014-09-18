@@ -36,7 +36,8 @@ html{
 }
 
 body{
-	width: 75%;
+	width: 1012px;
+	height: 100%;
 	min-height: 700px;
 	margin-left: 15%;
 	margin-right: 15%;
@@ -132,7 +133,13 @@ a{
 	width: 45%;
 	float: left;
 
+	padding: 2%;
+
 	margin-left: 3%;
+
+	border: 2px;
+	border-style: solid;
+	border-color: black;
 }
 
 .desc, .specials{
