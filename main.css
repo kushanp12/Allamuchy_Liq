@@ -1,0 +1,210 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+
+hr{
+	color: black;
+}
+
+html{
+	background: url('http://freedwallpaper.com/wp-content/uploads/2014/03/362399.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.location, .contact {
+	display: none;
+}
+
+.container{
+	width: 75%;
+	min-height: 700px;
+	margin-left: 15%;
+	margin-right: 15%;
+
+	background-color: white;
+
+	border: 2px solid black;
+}
+
+
+h1{
+	font-size: 36px;
+	margin-left: 2%;
+	margin-right: 1%;
+
+	width: 25%;
+
+	font-family: 'Lobster Two', cursive;
+}
+
+h6 {
+	position: relative;
+	width: 30%;
+}
+
+h1, h6{
+	float: left;
+	margin-top: 2%;
+}
+
+nav{
+	position: relative;
+	clear: both;
+	float: right;
+
+	width: 100%;
+
+	text-align: center;
+}
+
+li{
+	display: inline-block;
+
+	margin: 2% 2% 2% 2%;
+}
+
+a{
+	text-decoration: none;
+}
+
+.button-1, .button-2, .button-3{
+	font-size: 20px;
+
+	color: black;
+}
+
+.button-1:hover, .button-2:hover, .button-3:hover {
+	color: gray;
+}
+
+.disting {
+	font-family: 'Oregano', cursive;
+	font-size: 24px;
+
+	margin-top: 0.5%;
+}
+
+.home {
+	clear: both;
+	margin-left: 4%;
+	margin-right: 4%;
+
+	padding-top: 0.4%;
+
+	font-size: 18px;
+
+	outline-top: 2px solid black;
+}
+
+.qualities{
+	text-align: center;
+}
+
+.desc {
+	width: 45%;
+	float: left;
+
+	margin-left: 3%;
+}
+
+.desc, .specials{
+	padding-bottom: 1%;
+	padding-top: 1%;
+}
+
+.specials{
+	float: right;
+
+	width: 40%;
+
+	margin-right: 2%;
+
+}
+
+p{
+	margin-top: 6%;
+	margin-bottom: 1%;
+
+	font-size: 26px;
+
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-weight: bold;
+}
+
+.box {
+	border-top: 2px solid black;
+}
+
+.address{
+	width: 35%;
+	float: left;
+
+	margin-left: 9%;
+	margin-top: 6%;
+}
+
+.note{
+	font-size: 16px;
+	color: gray;
+
+	margin-left: 4%;
+}
+
+.map{
+	float: right;
+
+	margin-right: 5%;
+	margin-top: 3%;
+
+	border: 1px solid black;
+}
+
+.map > a {
+	z-index: 9999;
+}
+
+.hours{
+	width: 30%;
+	float: left;
+
+	margin-left: 25%;
+	margin-top: 6%;
+}
+
+.hours > hr{
+	width: 50%;
+	margin-right: 50%;
+}
+
+.phone {
+	float: right;
+
+	width: 40%;
+
+	margin-right: 4%;
+	margin-top: 6%;
+}
