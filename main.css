@@ -58,7 +58,7 @@ body{
 h1{
 	font-size: 36px;
 	margin-left: 2%;
-	margin-right: 1%;
+	margin-right: 10.12px;
 
 	width: 25%;
 
@@ -129,16 +129,17 @@ a{
 }
 
 .desc {
-	width: 45%;
+	width: 420px;
 	float: left;
 
-	padding: 2%;
+	padding: 3%;
 
 	margin-left: 3%;
 
 	border: 2px;
 	border-style: solid;
 	border-color: black;
+	border-radius: 15%;
 }
 
 .desc, .specials{
