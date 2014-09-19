@@ -55,18 +55,18 @@ body{
 
 
 h1{
-	font-size: 36px;
+	font-size: 46px;
 	margin-left: 2%;
 	margin-right: 10.12px;
 
-	width: 250px;
+	width: 320px;
 
 	font-family: 'Lobster Two', cursive;
 }
 
 h6 {
 	position: relative;
-	width: 30%;
+	width: 340px;
 }
 
 h1, h6{
@@ -152,7 +152,8 @@ a{
 
 	width: 40%;
 
-	margin-right: 2%;
+	margin-top: 15%;
+	margin-right: 3%;
 
 }
 
@@ -174,7 +175,7 @@ p{
 	width: 35%;
 	float: left;
 
-	margin-left: 9%;
+	margin-left: 16%;
 	margin-top: 6%;
 }
 
