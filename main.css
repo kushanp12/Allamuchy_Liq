@@ -57,11 +57,11 @@ body{
 
 
 h1{
-	font-size: 36px;
+	font-size: 46px;
 	margin-left: 2%;
 	margin-right: 10.12px;
 
-	width: 250px;
+	width: 320px;
 
 	font-family: 'Lobster Two', cursive;
 }
@@ -152,7 +152,8 @@ a{
 
 	width: 40%;
 
-	margin-right: 2%;
+	margin-top: 15%;
+	margin-right: 3%;
 
 }
 
