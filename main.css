@@ -37,14 +37,7 @@ html{
 }
 
 body{
-	width: 75%;
-	height: 100vh;
-	margin-left: 15%;
-	margin-right: 15%;
-
-	background-color: white;
-
-	border: 2px solid black;
+	min-width: 1350px;
 }
 
 .location, .contact {
@@ -52,6 +45,14 @@ body{
 }
 
 .container{
+	width: 75%;
+	height: 100vh;
+	margin-left: 15%;
+	margin-right: 15%;
+
+	background-color: #F0F0F0;
+
+	border: 2px solid black;
 
 }
 
