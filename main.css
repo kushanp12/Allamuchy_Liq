@@ -151,7 +151,7 @@ a{
 .specials{
 	float: right;
 
-	width: 30%;
+	width: 28%;
 
 	margin-top: 15%;
 	margin-right: 2%;
@@ -163,6 +163,13 @@ p{
 	margin-bottom: 1%;
 
 	font-size: 26px;
+
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-weight: bold;
+}
+
+h2 {
+	font-size: 36px;
 
 	font-family: 'Open Sans Condensed', sans-serif;
 	font-weight: bold;
