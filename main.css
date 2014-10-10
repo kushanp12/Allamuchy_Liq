@@ -145,14 +145,11 @@ a{
 	width: 480px;
 	float: left;
 
-	padding: 4%;
+	padding: 2.5%;
+	padding-bottom: 8%;
 
 	margin-left: 2%;
 
-	border: 2px;
-	border-style: solid;
-	border-color: black;
-	border-radius: 15%;
 }
 
 .desc, .specials{
